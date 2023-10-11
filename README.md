@@ -1,1 +1,1 @@
-# Diploma-CodingPractice
+# Diploma-Coding-Practice
